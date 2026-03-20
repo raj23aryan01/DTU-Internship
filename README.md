@@ -160,10 +160,4 @@ This project is open-source and free to use.
 
 Created as a beginner-friendly NLP project to explore chatbot development.
 
----
 
-If you want, I can also:
-
-* Add badges (GitHub stars, license, etc.)
-* Make it look more **professional / resume-ready**
-* Or customize it for a **portfolio project**
