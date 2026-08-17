@@ -1,5 +1,5 @@
 
-# 🧠 NeuroBot: From Basic NLP to RAG-Based Chatbot
+ NeuroBot: From Basic NLP to RAG-Based Chatbot
 
 NeuroBot is a simple neuroscience chatbot project that demonstrates the evolution from a **basic NLP chatbot** to a more advanced **RAG (Retrieval-Augmented Generation) system**.
 
@@ -7,15 +7,15 @@ This project is perfect for beginners who want to understand how modern AI chatb
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔹 Basic Neuro Chatbot
+### Basic Neuro Chatbot
 
 * Uses **TF-IDF + Cosine Similarity**
 * Retrieves the most relevant answer from a fixed dataset
 * Lightweight and beginner-friendly
 
-### 🔹 RAG-Based Neuro Chatbot
+### RAG-Based Neuro Chatbot
 
 * Uses **Sentence Transformers** for semantic understanding
 * Retrieves relevant context using embeddings
@@ -24,7 +24,7 @@ This project is perfect for beginners who want to understand how modern AI chatb
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 NeuroBot/
@@ -35,7 +35,7 @@ NeuroBot/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Run the following commands:
 
@@ -53,23 +53,23 @@ nltk.download('punkt')
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
-### 1️⃣ Basic Chatbot (TF-IDF)
+### 1️Basic Chatbot (TF-IDF)
 
 1. Preprocess user input
 2. Convert text into TF-IDF vectors
 3. Compute cosine similarity
 4. Return the most similar sentence
 
-📌 Limitation:
+ Limitation:
 
 * Cannot generate new answers
 * Limited to predefined responses
 
 ---
 
-### 2️⃣ RAG Chatbot
+### 2️RAG Chatbot
 
 1. Convert documents into embeddings
 2. Encode user query
@@ -77,14 +77,14 @@ nltk.download('punkt')
 4. Pass context + query to LLM
 5. Generate answer
 
-📌 Advantage:
+Advantage:
 
 * Understands meaning (semantic search)
 * Generates dynamic responses
 
 ---
 
-## 💡 Example
+## Example
 
 **User Input:**
 
@@ -106,7 +106,7 @@ The hippocampus plays a crucial role in forming and organizing memories.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Small knowledge base
 * Basic models (not production-level)
@@ -115,7 +115,7 @@ The hippocampus plays a crucial role in forming and organizing memories.
 
 ---
 
-## 🔥 Future Improvements
+## Future Improvements
 
 * Add larger neuroscience dataset
 * Use **FAISS** for faster retrieval
@@ -125,7 +125,7 @@ The hippocampus plays a crucial role in forming and organizing memories.
 
 ---
 
-## 🧪 Learning Outcomes
+## Learning Outcomes
 
 This project helps you understand:
 
@@ -137,26 +137,26 @@ This project helps you understand:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repo and improve it!
 Pull requests are welcome.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Created by Raj Aryan for study purposes
 
 ---
 
-⭐ If you like this project, don’t forget to star the repo!
+ If you like this project, don’t forget to star the repo!
 
 ---
 
