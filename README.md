@@ -55,7 +55,7 @@ nltk.download('punkt')
 
 ## How It Works
 
-### 1️Basic Chatbot (TF-IDF)
+### 1.Basic Chatbot (TF-IDF)
 
 1. Preprocess user input
 2. Convert text into TF-IDF vectors
@@ -69,7 +69,7 @@ nltk.download('punkt')
 
 ---
 
-### 2️RAG Chatbot
+### 2.RAG Chatbot
 
 1. Convert documents into embeddings
 2. Encode user query
